@@ -1,0 +1,18 @@
+{
+  "name": "weekrseat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mystrader/weekrseat.git",
+  "author": "MystraderNoteUbuntu18.04 <mystrader@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "mongoose": "^5.5.15",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
